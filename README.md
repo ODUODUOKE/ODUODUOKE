@@ -24,26 +24,37 @@ desc: 小标题
  </p>
 
 <!-- 打字机 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+LOVE+MY+COUNTRY%2C+I+LOVE+MY+LIFE.)](https://git.io/typing-svg)
- 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+LOVE+MY+COUNTRY%2C+I+LOVE+MY+LIFE." alt="Typing SVG" /></a>
+</p>
 
 <!-- github 数据概览 -->
+<p align="center">
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=ODUODUOKE&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+</p>
 
 <!-- 连续贡献记录 -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=ODUODUOKE)](https://git.io/streak-stats)
 
 <!-- 代码提交记录趋势图 -->
+<p align="center">
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=ODUODUOKE&theme=github-compact&hide_border=true&area=true" />
+</p>
 
-<!-- 代码编写总时常 -->
+<!-- 代码编写总时常 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ODUODUOKE&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+-->
 
 <!-- 代码语言比例 -->
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ODUODUOKE&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+</p>
 
 <!-- 小徽章（访问统计） -->
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=ODUODUOKE&abbreviated=true" />
+</p>
+
 
 <!--
 section=footer
